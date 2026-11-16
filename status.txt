@@ -1,4 +1,4 @@
 version = 2.73
 request = <2.73
-state = r
+state = c
 support = 2.70, 2.71, 2.72
