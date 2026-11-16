@@ -31,5 +31,5 @@ version = 2.76
 request = <2.76
 state = r
 support = 2.73, 2.74, 2.75
-message = sorry
+message = ok new update
 url =
