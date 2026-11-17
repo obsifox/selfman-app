@@ -29,7 +29,7 @@
 # ============================================================
 version = 2.79.01
 request = <2.79.01
-state = c
+state = r
 support = 2.78, 2.78.a01, 2.79, 2.79.a01
 message = ok new update
 url =
